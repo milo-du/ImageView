@@ -1,7 +1,7 @@
 ﻿/*
  * ImageView v1.0.0
  * --基于zepto.js的大图查看
- * --调用方法 ImageView(index,imgDada)
+ * --调用方法 $(container).ImageViewInit()();
  * --index 图片默认值显示索引,Number  --imgData 图片url数组,Array
  * */
 var ImageView = (function (window, $) {
